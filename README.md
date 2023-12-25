@@ -1,6 +1,8 @@
 ## Sky Strike 
 
-<img width="654" alt="Sky Strike Cover" src="https://github.com/one-loop/sky-strike/assets/78092430/9687c9be-2299-4d69-b352-7970a2896f78">
+<p align="center">
+  <img width="654" alt="Sky Strike Cover" src="https://github.com/one-loop/sky-strike/assets/78092430/9687c9be-2299-4d69-b352-7970a2896f78">
+</p>
 
 This is a 2D top-down airplane shooter where you control a plane and aim to avoid enemies flying and shooting at you. This game was developed for the final project of CS-1001 @ NYUAD and received 100%.
 
