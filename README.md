@@ -1,4 +1,4 @@
-## Sky Strike
+## Sky Strike 
 
 This is a 2D top-down airplane shooter where you control a plane and aim to avoid enemies flying and shooting at you. This game was developed for the final project of CS-1001 @ NYUAD and received 100%.
 
@@ -19,23 +19,20 @@ Controls: WASD/UP, DOWN, LEFT, RIGHT to move your plane, and SPACE to shoot
 
 ### Features
 
-●	Random Enemy Spawning (Saad)
-●	Health Bar and Score Tracker (Saad)
-●	Plane Movement (Saad)
-●	Shooting Mechanism/Class (Saad)
-●	Health Pack Spawning (Saad)
-●	Collision/Hit Detection (Saad)
-●	Store High Score to File (Saad)
-●	Infinite Scrolling Background Map (Saad + Abinet)
-●	Start Screen (Abinet)
-●	Play Button (Abinet)
-●	Difficulty Selector (greater difficulty means more enemies spawn and bullet collision radius is smaller) (Abinet)
-●	Game Over Screen (Abinet)
-●	Reset Button
-●	Quit Button
-●	Animations (Bullet Animation, Explosion Animations) (Abinet)
-●	Sounds (Shooting Sounds, Explosion Sounds, Score Increase sounds, background music) (Abinet)
-Demo
-●	This is the progress we have made on the game so far:
+* Random Enemy Spawning
+* Health Bar and Score Tracker
+* Plane Movement
+* Shooting Mechanism/Class
+* Health Pack Spawning
+* Collision/Hit Detection
+* Store High Score to File
+* Infinite Scrolling Background Map
+* Start Screen
+* Play Button
+* Difficulty Selector (greater difficulty means more enemies spawn and bullet collision radius is smaller)
+* Game Over Screen
+* Reset Button
+* Quit Button
+* Animations (Bullet Animation, Explosion Animations)
+* Sounds (Shooting Sounds, Explosion Sounds, Score Increase sounds, background music)
 
-![image](https://github.com/one-loop/sky-strike/assets/78092430/891e0695-429f-450b-b8c2-c5fc72c7feb4)
